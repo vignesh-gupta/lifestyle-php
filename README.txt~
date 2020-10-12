@@ -1,9 +1,3 @@
-**************Internshala VTC Web Development Project Solution*************************************************
-
-DESCRIPTION: This is the solution to the e-commerce website 
-
-Extract the files from project_solution.zip.
-
 _____________________________________________Folder Structure__________________________________________________
 	
 	
